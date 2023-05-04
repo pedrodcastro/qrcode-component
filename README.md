@@ -12,8 +12,8 @@ Desafio simples para iniciantes, utilizando HTML e CSS!
 
 ### Links
 
-- Solução URL: [Add solution URL here](https://your-solution-url.com](https://www.frontendmentor.io/solutions/qr-code-component-JLpKwPe8az))
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com](https://pedrodcastro.github.io/qr-code-component-main/))
+- Solução URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-JLpKwPe8az)
+- Live Site URL: [Live](https://pedrodcastro.github.io/qr-code-component-main/)
 
 ## Author
 
