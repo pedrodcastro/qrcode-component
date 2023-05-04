@@ -8,6 +8,7 @@ Essa é uma solução para o projeto [QR code component challenge on Frontend Me
 
 ![](./images/screenshot-preview.png)
 
+Desafio simples para iniciantes, utilizando HTML e CSS!
 
 ### Links
 
@@ -16,4 +17,4 @@ Essa é uma solução para o projeto [QR code component challenge on Frontend Me
 
 ## Author
 
-- Frontend Mentor - [@pedrodcastro](https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/pdaugz)](https://www.frontendmentor.io/profile/pdaugz))
+- Frontend Mentor - [@pedrodcastro](https://www.frontendmentor.io/profile/pdaugz)
