@@ -6,8 +6,6 @@ Essa é uma solução para o projeto [QR code component challenge on Frontend Me
 
 ## Overview
 
-### Screenshot
-
 ![](./images/screenshot-preview.png)
 
 Desafio simples para iniciantes, utilizando HTML e CSS!
